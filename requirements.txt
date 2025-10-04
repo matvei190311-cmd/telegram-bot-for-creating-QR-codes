@@ -1,0 +1,6 @@
+python-telegram-bot==21.7
+qrcode[pil]==7.4.2
+pillow==10.2.0
+python-dotenv==1.0.1
+segno==1.5.2
+vobject==0.9.6.1
