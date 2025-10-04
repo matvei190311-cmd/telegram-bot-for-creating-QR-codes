@@ -19,7 +19,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <repository-url>
+git clone https://github.com/matvei190311-cmd/telegram-bot-for-creating-QR-codes
 cd qr_bot
 ```
 
